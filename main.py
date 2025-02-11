@@ -21,3 +21,4 @@ a = 8
 b = 7
 print("The sum is ", a+b)
 print("The number is ", a-b)
+print(a*b)
