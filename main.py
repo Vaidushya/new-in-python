@@ -15,3 +15,9 @@ print("My teacher's name is mr. Sayan Mitra")
 
 # about my classes
 print("I love to study coding")
+
+# plus and minus
+a = 8
+b = 7
+print("The sum is ", a+b)
+print("The number is ", a-b)
